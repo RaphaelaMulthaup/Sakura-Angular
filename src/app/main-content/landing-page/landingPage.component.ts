@@ -10,7 +10,7 @@ import { NavbarComponent } from './navbar/navbar.component';
     <section class="fontRaleway">
       <div><app-navbar></app-navbar></div>
       <h1>SAKURA RAMEN</h1>
-      <h2>BEST RAMEN IN TOWN</h2>
+      <h4>BEST RAMEN IN TOWN</h4>
     </section>
   `,
   styleUrls: ['./landingPage.component.scss'],
