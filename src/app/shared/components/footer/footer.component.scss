@@ -1,16 +1,16 @@
 footer {
-    background-color: black;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    height: 144px;
-    padding-left: 160px;
-    padding-right: 160px;
-    >img {
-        height: 44px;
+  background-color: black;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 144px;
+  padding-left: 160px;
+  padding-right: 160px;
+  > a {
+    text-decoration: none;
+    color: white;
+    > img {
+      height: 44px;
     }
-    >a {
-        text-decoration: none;
-        color: white;
-    }
+  }
 }
